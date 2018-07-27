@@ -20,4 +20,4 @@ the "Sort by"dropdown menu.
 - **Apache Cordova** - cross-platform mobile app development framework
 - **HTML/JavaScript/CSS** - development languages
 - **Ajax** - asynchronous web development technique
-- **uinames.com** - external API and ultimate source of name data
+- **[uinames.com](http://uinames.com)** - external API and ultimate source of name data
