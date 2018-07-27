@@ -105,4 +105,5 @@
   <preference name="Fullscreen" value="True" />
   <preference name="Orientation" value="portrait" />
   <access origin="http://uinames.com/api/" />
+  <access origin="http://localhost:8080/RandomNameAPI/webapi/names" />
 </widget>
