@@ -21,3 +21,7 @@ the "Sort by"dropdown menu.
 - **HTML/JavaScript/CSS** - development languages
 - **Ajax** - asynchronous web development technique
 - **[uinames.com](http://uinames.com)** - external API and ultimate source of name data
+
+###Known Issues
+- The sort function incorrectly sorts names when the first name attribute of a name object contains a space and an 
+accented letter (ex. "José Manuel León" or "María Mercedes Peña").
